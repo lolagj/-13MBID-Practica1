@@ -1,13 +1,18 @@
-# 13MIBD Template
+# 13MIBD
 
-Plantilla de repositorio para la asignatura 13MBID.  
+Repositorio **Actividades I y II.**
 
 **"Metodologías de Gestión de Proyectos de Big Data"**  
 *Master Universitario en Big Data y Ciencia de Datos  
 Universidad Internacional de Valencia*  
 
-Prof: Dr. Horacio Kuna
-Dictado: OCT23-24
+Profesores: 
+  Dr. Horacio Kuna
+  Martín Rey
+
+Curso: 2023-2024
+
+Alumna: Lola Gómez Jemes
 
 ## Descripción del contenido
 
